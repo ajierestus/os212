@@ -8,3 +8,4 @@ ZCZC W00 10 L11 Assignment #01 Create Public Repository
 ZCZC W00 10 L12 Assignment #02 Start Week 00 Log
 ZCZC W00 10 L13 Assignment #03 Create My GitHub Page
 ZCZC W00 10 L14 Assignment #04 Course Registration in Scele
+ZCZC W00 60 L15 Assignment #05 Finished reading the first document

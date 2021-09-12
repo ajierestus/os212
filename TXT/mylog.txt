@@ -12,3 +12,4 @@ ZCZC W00 10 L14 Assignment #04 Course Registration in Scele
 ZCZC W00 60 L15 Assignment #05 Finished reading the first document
 ZCZC W00 30 L04 Github Page related ( Doing some GSGS to improve my page)
 ZCZC W00 10 L02 OS Zoom second meeting Week 00
+ZCZC W01 100 L02 OS Zoom First meeting Week 00

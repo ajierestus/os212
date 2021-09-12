@@ -7,4 +7,4 @@ Hello, My name is Ajie Restu Sanggusti and this is my personal github page ! Her
 ## Important Link
 - [My Repository](https://github.com/ajierestus/os212)
 - [My Log](https://ajierestus.github.io/os212/TXT/mylog.txt)
-- [My Link](https://ajierestus.github.io/os212/LINKS/)
+- [OS Related Link](https://ajierestus.github.io/os212/LINKS/)

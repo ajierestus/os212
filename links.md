@@ -28,4 +28,4 @@ This links mainly talk about the C language. I recommend this because it contain
 This website contains many things about the C language. I strongly recommend this website because here you can also try to write the code and see the output. 
 
 3. [5 Linux Skills for Cybersecurity Professionals](https://www.comptia.org/blog/5-linux-skills-for-cybersecurity-professionals)<br>
-This article contain some insight about the cybersecurity. It tell us about the 5 important skill to have in Cybersecurity
+This article contain some insight about the cybersecurity. It tell us about the 5 important skill to have in Cybersecurity.

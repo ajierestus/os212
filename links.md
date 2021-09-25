@@ -32,3 +32,14 @@ This article contain some insight about the cybersecurity. It tell us about the 
 
 4. [The vi Editor Tutorial](https://www.tutorialspoint.com/unix/unix-vi-editor.htm)<br>
 Mainly talk about the vi editor. This helps me a lot while doing OS tasks.
+
+## Week 03
+1. [Linux File System Basics](https://www.dummies.com/computers/operating-systems/linux/linux-file-system-basics/)<br>
+This links mainly talk about the basic of file system in Linux. I recommend this because we need to learn the basic if we want to interact with the Linux file system.
+
+2. [File Management in Linux](https://www.geeksforgeeks.org/file-management-in-linux/)<br>
+This website contains lesson about file management. It provides a lot of information that I found very useful.
+
+3. [The Beginner’s Guide to Nano](https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/)<br>
+Mainly talk about the Nano editor in linux. This helps me a lot while doing OS tasks and I mainly use it when I write my log.
+

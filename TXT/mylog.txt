@@ -50,3 +50,4 @@ ZCZC W03 30 L16 Assignment #06
 ZCZC W03 15 L17 Assignment #07
 ZCZC W03 30 L18 Assignment #08
 ZCZC W03 30 L19 Assignment #09
+ZCZC W03 110 L02 OS First meeting W03

@@ -43,3 +43,13 @@ This website contains lesson about file management. It provides a lot of informa
 3. [The Beginner’s Guide to Nano](https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/)<br>
 Mainly talk about the Nano editor in linux. This helps me a lot while doing OS tasks and I mainly use it when I write my log.
 
+## Week 04
+1. [Dynamic Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)<br>
+In this link I learned how to use various methods that are useful in accessing memory. I recommend this website because this website also provide the example of the method and the results of the program's output.
+
+2. [Memory Allocation Guide](https://www.kernel.org/doc/html/latest/core-api/memory-allocation.html#:~:text=Linux%20provides%20a%20variety%20of,the%20page%20allocator%20with%20alloc_pages%20.)<br>
+From this link I learned about the memory allocation. This website provide a lot of detailed information about  Linux's Memory Allocation.
+
+3. [C Programming Language Cheat Sheet](https://developerinsider.co/c-programming-language-cheat-sheet/)<br>
+This website is really useful for me when I learn about C language. It provide so much information that I found very useful and easy to understand.
+

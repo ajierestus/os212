@@ -51,3 +51,16 @@ ZCZC W03 15 L17 Assignment #07
 ZCZC W03 30 L18 Assignment #08
 ZCZC W03 30 L19 Assignment #09
 ZCZC W03 110 L02 OS First meeting W03
+ZCZC W04 20 L05 Quiz W03
+ZCZC W04 90 L11 Assignment #01
+ZCZC W04 60 L12 Assignment #02
+ZCZC W04 40 L13 Assignment #03
+ZCZC W04 15 L14 Assignment #04
+ZCZC W04 15 L15 Assignment #05
+ZCZC W04 10 L16 Assignment #06
+ZCZC W04 20 L17 Assignment #07
+ZCZC W04 10 L18 Assignment #08
+ZCZC W04 05 L19 Assignment #09
+ZCZC W04 20 L01 SCELE/Discord related (Scele Forum Discussion)
+ZCZC W04 110 L02 ZOOM meetings related (OS first meeting W04)
+ZCZC W04 05 L02 Zoom Meetings related (OS Second meeting W04)

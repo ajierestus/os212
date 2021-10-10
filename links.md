@@ -53,3 +53,9 @@ From this link I learned about the memory allocation. This website provide a lot
 3. [C Programming Language Cheat Sheet](https://developerinsider.co/c-programming-language-cheat-sheet/)<br>
 This website is really useful for me when I learn about C language. It provide so much information that I found very useful and easy to understand.
 
+## Week 05
+1. [Linux Virtual Memory](https://www.thegeekstuff.com/2012/02/linux-memory-management/)<br>
+From this link I learn about the linux virtual memory. It  provide so many useful information and easy to understand for beginner.
+2. [Tutorial: Beginners guide on linux memory management](https://www.golinuxcloud.com/tutorial-linux-memory-management-overview/)<br>
+A really useful beginners guide that tell us about memory management. I learn so much from this link.
+

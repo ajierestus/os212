@@ -1,6 +1,9 @@
-# 👨‍💻 OS212 👨‍💻
 ---
-## Important Tips !
+permalink: /TIPS/
+---
+# 👨‍💻 Important Tips 👨‍💻
+---
+## Here is some tips for all of you when took the Operation System Course
 ---
 ### 1. Stay Focus !
 You need to be very focus in this course because we will type many code in many directory. A single mistake can be fatal so you need to be focus

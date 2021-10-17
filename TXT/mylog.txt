@@ -76,3 +76,13 @@ ZCZC W05 10 L18 Assignment #08 Updating my Log
 ZCZC W05 05 L19 Assignment #09 Submitting my assignment
 ZCZC W05 110 L02 Zoom meetings related (OS first meeting W05)
 ZCZC W05 05 L02 Zoom meetings related (OS second meeting W05)
+ZCZC W06 20 L22 Quiz Week05
+ZCZC W06 90 L11 Assignment #01
+ZCZC W06 60 L12 Assignment #02
+ZCZC W06 60 L13 Assignment #03
+ZCZC W06 50 L14 Assignment #04
+ZCZC W06 30 L15 Assignment #05 
+ZCZC W06 20 L16 Assignment #06
+ZCZC W06 30 L17 Assignment #07
+ZCZC W06 20 L18 Assignment #08
+ZCZC W06 15 L19 Assignment #09

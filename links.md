@@ -59,9 +59,15 @@ From this link I learn about the linux virtual memory. It  provide so many usefu
 2. [Tutorial: Beginners guide on linux memory management](https://www.golinuxcloud.com/tutorial-linux-memory-management-overview/)<br>
 A really useful beginners guide that tell us about memory management. I learn so much from this link.
 
-## Week 05
+## Week 06
 1. [Introduction to Concurrency](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/05%3A_Process_Synchronization/5.1%3A_Introduction_to_Concurrency#:~:text=in%20Operating%20System-,Concurrency%20in%20Operating%20System,memory%20or%20through%20message%20passing.)<br>
 From this link I learn about the concurrency. The explanation given by this website is understandable and very and very complete.
 2. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
 This website provide lesson about concurrency and I recommend it because the explanation is not that hard for beginner.
+
+## Week 07
+1. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+From this link I learn about Process Synchronization in Operating Systems. It  provide so many useful information and easy to understand for beginner.
+2. [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux)<br>
+A really useful beginners guide that tell us about Process Synchronization in Linux. This website provide a lot of detailed information about Process Synchronization in Linux along with the visualization.
 

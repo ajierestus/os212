@@ -15,5 +15,8 @@ Well,In order to understand you need to read the slide given. It will help you a
 We mainly use command prompt when doing our assignment. Being familiar with it is a must.
 
 ### 4. Always check SCELE & Discord
-Always check your SCELE & Discord everyday (More recommended to check it twice a day or more) to see new announcement and maybe some help if you get any difficulty 
+Always check your SCELE & Discord everyday (More recommended to check it twice a day or more) to see new announcement and maybe some help if you get any difficulty
+
+### 5. Help your friend
+Try to help your friend. Maybe you can find any detail that you have been missing when you help them.
 

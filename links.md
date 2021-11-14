@@ -71,3 +71,9 @@ From this link I learn about Process Synchronization in Operating Systems. It  p
 2. [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux)<br>
 A really useful beginners guide that tell us about Process Synchronization in Linux. This website provide a lot of detailed information about Process Synchronization in Linux along with the visualization.
 
+## Week 08
+1. [CPU Scheduling in Operating System](https://www.studytonight.com/operating-system/cpu-scheduling)<br>
+From this link I learn about CPU Scheduling in Operating System. It provide so many useful information and easy to understand for beginner.
+2. [Process Scheduling](https://www.youtube.com/watch?v=2h3eWaPx8SA)<br>
+This video provide lesson about Process Scheduling and I recommend it because the explanation is not that hard for beginner.
+
